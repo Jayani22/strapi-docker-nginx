@@ -15,16 +15,6 @@ No local installation of PostgreSQL, Node.js, or Strapi is required.
 
 ---
 
-## Project Structure
-
-strapi-docker-nginx/
-├── docker-compose.yml
-├── Dockerfile
-├── nginx/
-│ └── nginx.conf
-└── strapi-app/
----
-
 ## Overview of the Setup
 
 A user-defined Docker network was created to allow secure communication between all containers. 
